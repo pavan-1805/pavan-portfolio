@@ -1,0 +1,8 @@
+.rusume-title {
+    margin: 20px 50px;
+    border-bottom: 5px solid #edbf07;
+    width: fit-content;
+}
+.resume-div {
+    display: flex;
+}

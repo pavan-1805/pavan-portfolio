@@ -1,6 +1,7 @@
 import About from "./components/About";
 import Home from "./components/Home";
 import Navbar from "./components/NavBar";
+import Resume from "./components/Resume";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
+      <Resume />
     </div>
   );
 }
